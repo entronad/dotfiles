@@ -1,0 +1,25 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Debug@NavBarToolbar" count="49" />
+      <entry action="FileChooser.GotoDesktop@FileChooserDialog" count="5" />
+      <entry action="FileChooser.GotoHome@FileChooserDialog" count="1" />
+      <entry action="FileChooser.GotoProject@FileChooserDialog" count="1" />
+      <entry action="Flutter.Toolbar.ReloadAction@NavBarToolbar" count="12" />
+      <entry action="Rerun@DebuggerToolbar" count="1" />
+      <entry action="Resume@DebuggerToolbar" count="22" />
+      <entry action="Run@NavBarToolbar" count="1" />
+      <entry action="StepInto@DebuggerToolbar" count="13" />
+      <entry action="StepOut@DebuggerToolbar" count="2" />
+      <entry action="StepOver@DebuggerToolbar" count="35" />
+      <entry action="Stop@NavBarToolbar" count="2" />
+      <entry action="ViewBreakpoints@DebuggerToolbar" count="3" />
+      <entry action="com.android.tools.idea.logcat.LogcatConsoleActionsPostProcessor$ClearLogCatAction@AndroidLogcatView" count="82" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="2" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="90" />
+      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="12" />
+      <entry action="org.jetbrains.plugins.terminal.TerminalView$CloseSession@Terminal" count="1" />
+      <entry action="org.jetbrains.plugins.terminal.TerminalView$NewSession@Terminal" count="1" />
+    </counts>
+  </component>
+</application>

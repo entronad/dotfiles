@@ -2,204 +2,121 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="D:\MyApplication" />
-        <option value="D:\Code\github\huaian-show\AndroidWrapper" />
-        <option value="D:\Code\riyun-pro\riyun-pro-android\RiyunPro" />
-        <option value="D:\Code\github\MPAndroidChart-master" />
-        <option value="D:\Code\SVN\app\android_repository\Nari" />
-        <option value="D:\Code\github\android-architecture-todo-databinding\todoapp" />
-        <option value="D:\Code\github\Elephant" />
-        <option value="D:\Code\github\ImoocDemo\ViewPagerIndicator" />
-        <option value="D:\Code\github\RxTestRepository\RxTest" />
-        <option value="D:\Code\github\MyApplication" />
-        <option value="D:\Code\github\RxTest" />
-        <option value="D:\Code\github\phphub-android-master" />
-        <option value="D:\Code\Android\Nari" />
-        <option value="D:\Code\Android\Test" />
-        <option value="D:\Code\Android\Zhbj74" />
-        <option value="D:\Code\Android\HelloWord" />
+        <option value="D:/CODE/startup_namer" />
+        <option value="D:/CODE/flutter/my_app" />
+        <option value="D:/CODE/DQCloudPhone/android" />
+        <option value="D:/CODE/DQCloudPad/android" />
+        <option value="D:/CODE/GitHub/react-native-ble-manager/android" />
+        <option value="D:/CODE/DQCloudAndroid/Src/Branches/Dev/V0.1/DaQuan" />
+        <option value="D:/CODE/GitHub/android-architecture/todoapp" />
+        <option value="D:/CODE/rntest/android" />
+        <option value="D:/CODE/MyApplication" />
       </list>
     </option>
+    <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
-        <entry key="D:\Code\Android\HelloWord">
-          <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="AI-143.2739321" />
-              <option name="productionCode" value="AI" />
-              <option name="binFolder" value="C:\Dev\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1472225500379" />
-              <option name="buildTimestamp" value="1459785600000" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="D:\Code\Android\Nari">
-          <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="AI-145.3360264" />
-              <option name="productionCode" value="AI" />
-              <option name="binFolder" value="C:\Dev\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1477061567041" />
-              <option name="buildTimestamp" value="1476720000000" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="D:\Code\Android\Test">
-          <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="AI-145.3360264" />
-              <option name="productionCode" value="AI" />
-              <option name="binFolder" value="C:\Dev\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1477060532048" />
-              <option name="buildTimestamp" value="1476720000000" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="D:\Code\Android\Zhbj74">
-          <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="AI-145.3276617" />
-              <option name="productionCode" value="AI" />
-              <option name="binFolder" value="C:\Dev\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1477059904861" />
-              <option name="buildTimestamp" value="1473868800000" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="D:\Code\SVN\app\android_repository\Nari">
-          <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="AI-145.3360264" />
-              <option name="productionCode" value="AI" />
-              <option name="binFolder" value="C:\Dev\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1485486380638" />
-              <option name="buildTimestamp" value="1476720000000" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="D:\Code\github\Elephant">
-          <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="AI-145.3360264" />
-              <option name="productionCode" value="AI" />
-              <option name="binFolder" value="C:\Dev\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1481548968175" />
-              <option name="buildTimestamp" value="1476720000000" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="D:\Code\github\ImoocDemo\ViewPagerIndicator">
-          <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="AI-145.3360264" />
-              <option name="productionCode" value="AI" />
-              <option name="binFolder" value="C:\Dev\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1480130645067" />
-              <option name="buildTimestamp" value="1476720000000" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="D:\Code\github\MPAndroidChart-master">
-          <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="AI-145.3360264" />
-              <option name="productionCode" value="AI" />
-              <option name="binFolder" value="C:\Dev\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1485486381733" />
-              <option name="buildTimestamp" value="1476720000000" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="D:\Code\github\MyApplication">
-          <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="AI-145.3360264" />
-              <option name="productionCode" value="AI" />
-              <option name="binFolder" value="C:\Dev\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1478618319250" />
-              <option name="buildTimestamp" value="1476720000000" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="D:\Code\github\RxTest">
-          <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="AI-145.3360264" />
-              <option name="productionCode" value="AI" />
-              <option name="binFolder" value="C:\Dev\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1478443890825" />
-              <option name="buildTimestamp" value="1476720000000" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="D:\Code\github\RxTestRepository\RxTest">
-          <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="AI-145.3360264" />
-              <option name="productionCode" value="AI" />
-              <option name="binFolder" value="C:\Dev\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1479651365029" />
-              <option name="buildTimestamp" value="1476720000000" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="D:\Code\github\android-architecture-todo-databinding\todoapp">
-          <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="AI-145.3360264" />
-              <option name="productionCode" value="AI" />
-              <option name="binFolder" value="C:\Dev\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1481967913617" />
-              <option name="buildTimestamp" value="1476720000000" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="D:\Code\github\huaian-show\AndroidWrapper">
-          <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="AI-145.3360264" />
-              <option name="productionCode" value="AI" />
-              <option name="binFolder" value="C:\Dev\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1497104785079" />
-              <option name="buildTimestamp" value="1476720000000" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="D:\Code\github\phphub-android-master">
-          <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="AI-145.3360264" />
-              <option name="productionCode" value="AI" />
-              <option name="binFolder" value="C:\Dev\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1478403145247" />
-              <option name="buildTimestamp" value="1476720000000" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="D:\Code\riyun-pro\riyun-pro-android\RiyunPro">
-          <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="AI-145.3360264" />
-              <option name="productionCode" value="AI" />
-              <option name="binFolder" value="C:\Dev\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1485754560556" />
-              <option name="buildTimestamp" value="1476720000000" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="D:\MyApplication">
+        <entry key="D:/CODE/DQCloudAndroid/Src/Branches/Dev/V0.1/DaQuan">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="AI-171.4443003" />
               <option name="productionCode" value="AI" />
-              <option name="binFolder" value="C:\Dev\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1514003659812" />
-              <option name="buildTimestamp" value="1510251670808" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514181671526" />
+              <option name="buildTimestamp" value="1510251711059" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/CODE/DQCloudPad/android">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4697961" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530606104655" />
+              <option name="buildTimestamp" value="1522802360889" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/CODE/DQCloudPhone/android">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4697961" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1531876842865" />
+              <option name="buildTimestamp" value="1522802343739" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/CODE/GitHub/android-architecture/todoapp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513601256205" />
+              <option name="buildTimestamp" value="1510251712490" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/CODE/GitHub/react-native-ble-manager/android">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4697961" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530265448366" />
+              <option name="buildTimestamp" value="1522802382180" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/CODE/MyApplication">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513240513696" />
+              <option name="buildTimestamp" value="1510251686881" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/CODE/flutter/my_app">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4697961" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1531880175318" />
+              <option name="buildTimestamp" value="1522802390661" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/CODE/rntest/android">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513566042292" />
+              <option name="buildTimestamp" value="1510251712490" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/CODE/startup_namer">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4697961" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1531906468063" />
+              <option name="buildTimestamp" value="1522802340230" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="D:/" />
+    <option name="lastProjectLocation" value="D:/CODE" />
   </component>
 </application>

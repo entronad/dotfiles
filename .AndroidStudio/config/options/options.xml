@@ -1,46 +1,30 @@
 <application>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
-    <property name="DefaultHtmlDoctype.Refreshed" value="2" />
-    <property name="AndroidInitConfigurator.V4" value="true" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
     <property name="AndroidInitConfigurator.V3" value="true" />
     <property name="AndroidInitConfigurator.V1" value="true" />
-    <property name="AndroidInitConfigurator.V2" value="true" />
-    <property name="android-component-compatibility-check" value="1514003657201" />
-    <property name="file.chooser.recent.files" value="D:/Soft/android-sdk&#10;D:/Soft/AndroidSDK&#10;D:/Code/github/huaian-show&#10;D:/Code/SVN/app/android_repository/Nari&#10;D:/Code/github/MPAndroidChart-master&#10;D:/Code/github/android-architecture-todo-databinding/todoapp&#10;D:/Code/riyun-pro/riyun-pro-android/RiyunPro&#10;D:/Code/github/Elephant&#10;D:/Code/github/ImoocDemo/ViewPagerIndicator&#10;D:/Code/github/RxTestRepository/RxTest&#10;D:/Code/github/phphub-android-master&#10;D:/Code/github/RxTest&#10;D:/Code/Android/Nari&#10;D:/Code/Android&#10;C:/Dev/Android/Genymotion&#10;C:/Dev/Android/sdk" />
-    <property name="newly.installed.api.level" value="26" />
-    <property name="PLUGIN_FILTER" value="ideavim&#10;geny" />
+    <property name="installed.kotlin.plugin.version" value="1.2.30-release-Studio3.1-1" />
+    <property name="android-component-compatibility-check" value="1531468679568" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="file.chooser.recent.files" value="D:/CODE&#10;D:/CODE/flutter/my_app&#10;C:/Users/linchen/Desktop&#10;D:/CODE/DQCloudPad/android&#10;D:/CODE/GitHub/react-native-ble-manager/android&#10;D:/CODE/DQCloudPhone/android&#10;D:/CODE/rntest/android&#10;D:/CODE/GitHub/android-architecture/todoapp&#10;D:/SOFT/Android/android-sdk&#10;D:/SOFT/Java/jdk1.8.0_131&#10;D:/SOFT/Java/jdk-9.0.1&#10;D:/CODE/DQCloudAndroid/Src/Branches/Dev/V0.1/DaQuan&#10;D:/CODE/MyApplication&#10;D:/SOFT/Android/AndroidSDK&#10;D:/SOFT/Android/Android SDK" />
     <property name="lastTip" value="1" />
-    <property name="KEY_GENYMOTION_PATH" value="C:\Dev\Android\Genymotion" />
-    <property name="SAVED_COMPANY_DOMAIN" value="entronad.github.com" />
-    <property name="MobileminApi" value="24" />
-    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
-    <property name="ExpandBeforeRunStepsPanel" value="true" />
-    <property name="Copy.OpenInEditor" value="true" />
-    <property name="com.google.gct.enable.cloud.testing" value="true" />
-    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
-    <property name="MemberChooser.showClasses" value="true" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="FileTemplates.CurrentTab" value="Includes" />
-    <property name="FileTemplates.SelectedTemplate" value="File Header" />
+    <property name="newly.installed.api.level" value="26" />
+    <property name="file.gist.reindex.count" value="4757" />
     <property name="decompiler.legal.notice.accepted" value="true" />
-    <property name="ideavim.statistics.timestamp" value="1497104150838" />
-    <property name="AndroidInitConfigurator.V5" value="true" />
-    <property name="installed.kotlin.plugin.version" value="1.1.51-release-Studio3.0-1" />
-    <property name="file.gist.reindex.count" value="60" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.LEFT" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.AUTO_HIDE" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.LEFT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.LEFT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.AUTO_HIDE" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.AUTO_HIDE" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PROPERTIES,PALETTE,COMPONENT_TREE" />
-    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PROPERTIES,PALETTE,COMPONENT_TREE" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="SAVED_COMPANY_DOMAIN" value="daqo.com" />
+    <property name="MobileminApi" value="25" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Build.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="SearchEveryWhereHistory" value="BleManagerDidUpdateValueForCharacteristic&#10;android.database.sqlite&#10;android.database.sqlite.SQLiteConnection.nativeExecute" />
+    <property name="search.everywhere.max.popup.width" value="640" />
+    <property name="LOG_FILTER_HISTORY" value="com.daqo.dqcloudpad&#10;com.daqo.dqcloud" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="PLUGIN_FILTER" value="flut&#10;Dart" />
+    <property name="FLUTTER_SDK_KNOWN_PATHS" value="D:/SOFT/flutter&#10;D:\SOFT\flutter" />
+    <property name="io.flutter.analytics.toastShown" value="true" />
+    <property name="io.flutter.analytics.clientId" value="227b2f3a-d845-4661-be04-6c592bc56902" />
+    <property name="io.flutter.analytics.optOut" value="true" />
   </component>
 </application>

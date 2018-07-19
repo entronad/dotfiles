@@ -1,120 +1,31 @@
 <application>
-  <component name="StatisticsApplicationUsages">
-    <group name="Git">
-      <project id="AndroidWrapper" values="config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.force.push.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1497109067949" />
-      <project id="RiyunPro" values="config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH" collectionTime="1485797092803" />
-      <project id="todoapp" values="config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.force.push.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled" collectionTime="1481967915633" />
-      <project id="RxTest" values="config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.repo.sync.NOT_DECIDED" collectionTime="1479651368017" />
-      <project id="MyApplication" values="config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled" collectionTime="1478621022394" />
-      <project id="Test" values="config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.save.policy.STASH" collectionTime="1477060784806" />
-      <project id="Nari" values="config.save.policy.STASH,config.force.push.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled" collectionTime="1485486381733" />
-      <project id="phphub-android-master" values="config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.save.policy.STASH,config.force.push.enabled,config.push.update.all.roots.enabled,config.ssh.enabled" collectionTime="1478403667548" />
-      <project id="Elephant" values="config.ssh.enabled,data.remote.branches.count.2+,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,data.local.branches.count.1,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.2+" collectionTime="1481550024692" />
-      <project id="HelloWord" values="config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.force.push.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled" collectionTime="1472225742655" />
-      <project id="Zhbj74" values="config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,data.local.branches.count.1,config.warn.about.detached.enabled,config.force.push.enabled,data.remotes.in.project.1,config.ssh.enabled,data.remote.branches.count.1,config.push.update.all.roots.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED" collectionTime="1477060221446" />
-      <project id="MPAndroidChart-master" values="config.warn.about.crlf.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.force.push.enabled" collectionTime="1485486384852" />
-      <project id="ViewPagerIndicator" values="config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.force.push.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.ssh.enabled,config.push.autoupdate.disabled" collectionTime="1480144182840" />
-    </group>
-    <group name="vcs">
-      <project id="Zhbj74" values="Git" collectionTime="1477060221402" />
-      <project id="Elephant" values="Git" collectionTime="1481550024632" />
-    </group>
-    <group name="file-type">
-      <project id="AndroidWrapper" values="IDEA_MODULE,JavaScript,UNKNOWN,HTML,CSS,ProGuard File,JAVA,Properties,Groovy,ARCHIVE,XML,AIDL,PLAIN_TEXT,Images" collectionTime="1497109067916" />
-      <project id="RiyunPro" values="Images,PLAIN_TEXT,ARCHIVE,Groovy,ProGuard File,IDEA_MODULE,AIDL,JAVA,Properties,XML" collectionTime="1485797092751" />
-      <project id="todoapp" values="Images,JAVA,PLAIN_TEXT,Properties,XML,AIDL,ARCHIVE,IDEA_MODULE,ProGuard File,Groovy" collectionTime="1481967915631" />
-      <project id="RxTest" values="IDEA_MODULE,ARCHIVE,ProGuard File,UNKNOWN,PLAIN_TEXT,Groovy,Images,XML,AIDL,Properties,JAVA" collectionTime="1479651368000" />
-      <project id="MyApplication" values="Groovy,XML,PLAIN_TEXT,UNKNOWN,AIDL,Images,ARCHIVE,IDEA_MODULE,ProGuard File,JAVA,Properties" collectionTime="1478621022378" />
-      <project id="Test" values="Properties,ProGuard File,ARCHIVE,AIDL,JAVA,UNKNOWN,PLAIN_TEXT,XML,IDEA_MODULE,Groovy,Images" collectionTime="1477060784793" />
-      <project id="Nari" values="Images,Groovy,JAVA,IDEA_MODULE,ARCHIVE,UNKNOWN,AIDL,XML,ProGuard File,Properties,PLAIN_TEXT,APK" collectionTime="1485486381732" />
-      <project id="phphub-android-master" values="ARCHIVE,ProGuard File,IDEA_MODULE,JavaScript,XML,Groovy,Properties,PLAIN_TEXT,AIDL,UNKNOWN,JAVA,Images,YAML" collectionTime="1478403667545" />
-      <project id="Elephant" values="PLAIN_TEXT,AIDL,HTML,JAVA,ProGuard File,Properties,UNKNOWN,Images,XML,Groovy,IDEA_MODULE,JSON,YAML,JavaScript,ARCHIVE" collectionTime="1481550024685" />
-      <project id="HelloWord" values="ARCHIVE,Images,IDEA_MODULE,Groovy,JAVA,Properties,PLAIN_TEXT,ProGuard File,UNKNOWN,XML,AIDL" collectionTime="1472225742641" />
-      <project id="Zhbj74" values="ARCHIVE,XML,JAVA,PLAIN_TEXT,Properties,UNKNOWN,AIDL,Groovy,IDEA_MODULE,Images,ProGuard File" collectionTime="1477060221439" />
-      <project id="MPAndroidChart-master" values="Adobe Photoshop,PLAIN_TEXT,ARCHIVE,XML,AIDL,JAVA,ProGuard File,IDEA_MODULE,Groovy,UNKNOWN,Properties,Images" collectionTime="1485486384843" />
-      <project id="ViewPagerIndicator" values="ARCHIVE,IDEA_MODULE,AIDL,PLAIN_TEXT,Images,JAVA,Groovy,XML,ProGuard File,Properties" collectionTime="1480144182801" />
-    </group>
-    <group name="run-configuration-type">
-      <project id="AndroidWrapper" values="AndroidRunConfigurationType" collectionTime="1497109067823" />
-      <project id="RiyunPro" values="AndroidRunConfigurationType" collectionTime="1485797092440" />
-      <project id="RxTest" values="AndroidRunConfigurationType" collectionTime="1479651367968" />
-      <project id="MyApplication" values="AndroidRunConfigurationType" collectionTime="1478621022295" />
-      <project id="Test" values="AndroidRunConfigurationType" collectionTime="1477060784742" />
-      <project id="Nari" values="AndroidRunConfigurationType" collectionTime="1485486381696" />
-      <project id="phphub-android-master" values="AndroidRunConfigurationType" collectionTime="1478403667489" />
-      <project id="HelloWord" values="AndroidRunConfigurationType" collectionTime="1472225742571" />
-      <project id="todoapp" values="AndroidRunConfigurationType" collectionTime="1481967915560" />
-      <project id="MPAndroidChart-master" values="AndroidRunConfigurationType" collectionTime="1485486384801" />
-      <project id="ViewPagerIndicator" values="AndroidRunConfigurationType" collectionTime="1480144182649" />
-    </group>
-    <group name="language-level">
-      <project id="AndroidWrapper" values="JDK_1_7" collectionTime="1497109067945" />
-      <project id="RiyunPro" values="JDK_1_8" collectionTime="1485797092796" />
-      <project id="todoapp" values="JDK_1_7" collectionTime="1481967915633" />
-      <project id="RxTest" values="JDK_1_7,JDK_1_8" collectionTime="1479651368017" />
-      <project id="MyApplication" values="JDK_1_7" collectionTime="1478621022393" />
-      <project id="Test" values="JDK_1_7,JDK_1_8" collectionTime="1477060784804" />
-      <project id="Nari" values="JDK_1_7" collectionTime="1485486381733" />
-      <project id="phphub-android-master" values="JDK_1_7,JDK_1_8" collectionTime="1478403667548" />
-      <project id="Elephant" values="JDK_1_8,JDK_1_7" collectionTime="1481550024685" />
-      <project id="HelloWord" values="JDK_1_7,JDK_1_8" collectionTime="1472225742654" />
-      <project id="Zhbj74" values="JDK_1_7" collectionTime="1477060221444" />
-      <project id="MPAndroidChart-master" values="JDK_1_8,JDK_1_7" collectionTime="1485486384852" />
-      <project id="ViewPagerIndicator" values="JDK_1_7" collectionTime="1480144182838" />
-    </group>
-    <group name="frameworks">
-      <project id="AndroidWrapper" values="java-gradle,android-gradle,android" collectionTime="1497109067821" />
-      <project id="RiyunPro" values="java-gradle,android,android-gradle" collectionTime="1485797092438" />
-      <project id="todoapp" values="java-gradle,android-gradle,android" collectionTime="1481967915560" />
-      <project id="RxTest" values="java-gradle,android-gradle,android" collectionTime="1479651367968" />
-      <project id="MyApplication" values="android,java-gradle,android-gradle" collectionTime="1478621022294" />
-      <project id="Test" values="java-gradle,android,android-gradle" collectionTime="1477060784742" />
-      <project id="Nari" values="android-gradle,java-gradle,android" collectionTime="1485486381696" />
-      <project id="phphub-android-master" values="java-gradle,android,android-gradle" collectionTime="1478403667489" />
-      <project id="Elephant" values="java-gradle,android-gradle,android" collectionTime="1481550024632" />
-      <project id="HelloWord" values="android,java-gradle,android-gradle" collectionTime="1472225742570" />
-      <project id="Zhbj74" values="java-gradle,android-gradle,android" collectionTime="1477060221402" />
-      <project id="MPAndroidChart-master" values="android,android-gradle,java-gradle" collectionTime="1485486384801" />
-      <project id="ViewPagerIndicator" values="java-gradle,android-gradle,android" collectionTime="1480144182644" />
-    </group>
-    <group name="module type">
-      <project id="AndroidWrapper" values="JAVA_MODULE" collectionTime="1497109067822" />
-      <project id="RiyunPro" values="JAVA_MODULE" collectionTime="1485797092438" />
-      <project id="todoapp" values="JAVA_MODULE" collectionTime="1481967915560" />
-      <project id="RxTest" values="JAVA_MODULE" collectionTime="1479651367968" />
-      <project id="MyApplication" values="JAVA_MODULE" collectionTime="1478621022295" />
-      <project id="Test" values="JAVA_MODULE" collectionTime="1477060784742" />
-      <project id="Nari" values="JAVA_MODULE" collectionTime="1485486381696" />
-      <project id="phphub-android-master" values="JAVA_MODULE" collectionTime="1478403667489" />
-      <project id="Elephant" values="JAVA_MODULE" collectionTime="1481550024632" />
-      <project id="HelloWord" values="JAVA_MODULE" collectionTime="1472225742570" />
-      <project id="Zhbj74" values="JAVA_MODULE" collectionTime="1477060221403" />
-      <project id="MPAndroidChart-master" values="JAVA_MODULE" collectionTime="1485486384801" />
-      <project id="ViewPagerIndicator" values="JAVA_MODULE" collectionTime="1480144182645" />
-    </group>
-  </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="CreateFile.CreateFileAction" count="1" />
-      <entry feature="StripeButton[Android_Profiler].hidden" count="1" />
-      <entry feature="execute.AndroidRunConfigurationType.Debug" count="1" />
-      <entry feature="execute.AndroidRunConfigurationType.Run" count="64" />
-      <entry feature="ide.settings.Android_SDK" count="2" />
-      <entry feature="ide.settings.Appearance" count="1" />
-      <entry feature="ide.settings.File_and_Code_Templates" count="1" />
-      <entry feature="ide.settings.Genymotion" count="1" />
-      <entry feature="ide.settings.Plugins" count="2" />
-      <entry feature="ide.settings.Project_Structure" count="1" />
+      <entry feature="StripeButton[Android Profiler].hidden" count="23" />
+      <entry feature="StripeButton[Android Profiler].shown" count="20" />
+      <entry feature="StripeButton[Android_Profiler].hidden" count="5" />
+      <entry feature="StripeButton[Android_Profiler].shown" count="2" />
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="42" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="8" />
+      <entry feature="execute.FlutterRunConfigurationType.Debug" count="8" />
+      <entry feature="ide.settings.Appearance" count="8" />
+      <entry feature="ide.settings.Font" count="1" />
+      <entry feature="ide.settings.Menus_and_Toolbars" count="1" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Project_Structure" count="8" />
       <entry feature="ide.settings.System_Settings" count="1" />
-      <entry feature="ideaapp.started" count="73" />
-      <entry feature="terminal.win" count="4" />
-      <entry feature="welcome.screen.WelcomeScreen.Configure" count="10" />
-      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="10" />
-      <entry feature="welcome.screen.WelcomeScreen.Documentation" count="2" />
-      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="5" />
-      <entry feature="welcome.screen.WelcomeScreen.RunAndroidSdkManager" count="7" />
-      <entry feature="welcome.screen.WelcomeScreen.Settings" count="1" />
-      <entry feature="welcome.screen.WelcomeScreen.Update" count="1" />
+      <entry feature="ideaapp.started" count="62" />
+      <entry feature="project.view.pane.AndroidView" count="1" />
+      <entry feature="project.view.pane.ProjectPane" count="2" />
+      <entry feature="terminal.win" count="26" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="14" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Documentation" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="7" />
+      <entry feature="welcome.screen.WelcomeScreen.RunAndroidSdkManager" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="2" />
+      <entry feature="welcome.screen.flutter.NewProject.welcome" count="1" />
+      <entry feature="welcome.screen.null" count="6" />
     </counts>
   </component>
 </application>

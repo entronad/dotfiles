@@ -1,14 +1,62 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="Encoding">
-        <file url="PROJECT" charset="UTF-8" />
+      <component name="Kotlin2JsCompilerArguments">
+        <option name="sourceMapEmbedSources" />
+        <option name="sourceMapPrefix" />
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id>Class structureJava</id>
+              </State>
+              <State>
+                <id>Code maturity issuesJava</id>
+              </State>
+              <State>
+                <id>Code style issuesJava</id>
+              </State>
+              <State>
+                <id>JUnit issuesJava</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Java 5Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java 7Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java 8Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Javadoc issuesJava</id>
+              </State>
+              <State>
+                <id>Performance issuesJava</id>
+              </State>
+              <State>
+                <id>TestNGJava</id>
+              </State>
+              <State>
+                <id>Threading issuesJava</id>
+              </State>
+            </expanded-state>
+          </profile-state>
+        </entry>
+      </component>
       <component name="PropertiesComponent">
-        <property name="android.sdk.path" value="D:/Soft/android-sdk" />
+        <property name="android.sdk.path" value="D:/SOFT/Android/android-sdk" />
         <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="android.project.structure.last.selected" value="SDK Location" />
+        <property name="android.project.structure.proportion" value="0.15" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="Application" factoryName="Application">
@@ -96,23 +144,11 @@
           <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
         </configuration>
       </component>
+      <component name="SvnConfiguration" myUseAcceleration="nothing">
+        <configuration useDefault="false">C:\Users\linchen\AppData\Roaming\Subversion</configuration>
+      </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="ScopeChooserConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
       </component>
     </defaultProject>
   </component>
